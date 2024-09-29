@@ -1,0 +1,1 @@
+{"name":"Local: G_Conversion","url":"d:\\practice-problems-3\\G_Conversion.c","tests":[{"id":1727432635779,"input":"happy,NewYear,enjoy","output":"HAPPY nEWyEAR ENJOY\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\practice-problems-3\\G_Conversion.c","group":"local","local":true}
